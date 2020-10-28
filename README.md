@@ -5,7 +5,9 @@ This project gathers, cleans, and tidies up existing data from a smartphone stud
 The repository consists of:
 
 -'run_analysis.R': code that returns a tidy data set
+
 -'README.md'
+
 -'UCI HAR Dataset': the data set that the code works off of
 
 The study focused on human activity recognition by smartphones. The study consisted of 30 voluntary subjects that performed 6 different activites while wearing a Samsung smartphone (Samsung Galaxy SII) on their waist. A more detailed description of the study can be found in the ReadMe attached with the data in the working directory. 
